@@ -12,7 +12,28 @@ public class Eight {
     public void init() {
 //        zad1();
         //zad2();
-        zad3();
+        //zad3();
+        zad4Dodoatkowe();
+    }
+
+
+    public void zad4Dodoatkowe()
+    {
+        int [] testTablica = new int [5];
+        for (int testTablicas: testTablica)
+        {
+            testTablica[testTablicas]= rnd.nextInt(100);
+            System.out.println(testTablica[testTablicas]);
+        }
+    }
+    @Override
+    public String toString() {
+        return "Eight{" +
+                "sc=" + sc +
+                ", rnd=" + rnd +
+                ", resultZad2=" + resultZad2 +
+                ", resultZad3=" + resultZad3 +
+                '}';
     }
 
     public void zad3()
@@ -36,6 +57,11 @@ public class Eight {
             System.out.println("");
         }
         System.out.println(resultZad3);
+
+        System.out.println("\n\n\n");
+        for (int anyName[]:tablica3) {
+            System.out.println(anyName);
+        }
 
     }
 

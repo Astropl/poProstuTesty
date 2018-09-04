@@ -1,5 +1,7 @@
 package astro;
 
+import astro.temat8.Nine;
+
 /**
  * Hello world!
  */
@@ -13,8 +15,10 @@ public class App {
 //        five.Init();
 //        Six six = new Six();
 //        six.init();
-        Eight eight = new Eight();
-        eight.init();
+//        Eight eight = new Eight();
+//        eight.init();
+        Nine nine = new Nine();
+        nine.init();
     }
 
     private static void testBoolean() {
