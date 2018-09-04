@@ -4,11 +4,13 @@ package astro;
  * Hello world!
  */
 public class App {
-    public static void  main(String[] args) {
+    public static void main(String[] args) {
         //testBoolean();
         //zadanie1();
-Czwarte czwarte = new Czwarte();
-czwarte.initCzwarte();
+//        Czwarte czwarte = new Czwarte();
+//        czwarte.initCzwarte();
+        Five five = new Five();
+        five.Init();
     }
 
     private static void testBoolean() {
