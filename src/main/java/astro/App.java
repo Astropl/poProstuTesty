@@ -9,8 +9,10 @@ public class App {
         //zadanie1();
 //        Czwarte czwarte = new Czwarte();
 //        czwarte.initCzwarte();
-        Five five = new Five();
-        five.Init();
+//        Five five = new Five();
+//        five.Init();
+        Six six = new Six();
+        six.init();
     }
 
     private static void testBoolean() {
