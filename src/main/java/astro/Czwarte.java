@@ -8,7 +8,7 @@ public class Czwarte {
 //    2.Wczytaj od użytkownika imię, nazwisko, wiek, wzrost oraz wagę, a następnie wyświetl na ekran konsoli napis: „Nazywasz się {imię} {nazwisko}, masz {wiek} lat, masz {wzrost} cm wzrostu oraz ważysz {waga} kg”.
 //    3.Wczytaj dwie liczby całkowite od użytkownika, a następnie wyświetl wynik dodawania i odejmowania przy użyciu operatorów + i – np. wynik = liczbaA + liczbaB, wynik = liczbaA – liczbaB.
 
-//private void initCzwarte ()
+
 
     public void zad3()
     {
