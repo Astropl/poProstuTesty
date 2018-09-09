@@ -1,5 +1,7 @@
 package astro;
 
+import java.util.Scanner;
+
 public class Nine {
     int zad1Sum, zad2CountParzyste = 0, zad2CountNieParzyste = 0;
     int zad3Result = 1;
@@ -8,11 +10,37 @@ public class Nine {
         //zad1();
         //zad2();
         //zad3();
-        zad4();
+        //zad4();
+        zad5();
 
 
     }
 
+    public void zad5()
+    {
+//        5. Stwórz tablicę dwuwymiarową o rozmiarze 3×3 pozwól użytkownikowi na wypełnienie jej każdej komórki.
+//            Po wypełnieniu całej tablicy wypisz wszystkie elementy tablicy na ekran – wiersz pod wierszem.
+        int tab [][] = new int[3][3];
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Wyełnaimy tabele :");
+        for (int i = 0;i<tab.length;i++)
+        {
+            for (int j = 0;j<tab.length;j++)
+            {
+                System.out.println("podaj liczbe dla pozycji ["+j+"]["+i+"]");
+                tab[j][i]= sc.nextInt();
+            }
+        }
+        System.out.println("\n\n\n");
+
+        for (int i =0;i<tab.length;i++)
+        {
+            for (int j =0;j<tab.length;j++)
+            System.out.println(tab[j][i]);
+        }
+
+    }
 
     public void zad4() {//4. Mając tablicę 32, 21, 0, 1, 23, 12, 42, 55, 13, 5  znajdź jej największą i najmniejszą wartość i wypisz je na ekran konsoli.
         int tab[] = {32, 21, 0, 1,
