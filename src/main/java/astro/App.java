@@ -15,8 +15,10 @@ public class App {
 //        six.init();
 //        Eight eight = new Eight();
 //        eight.init();
-        Nine nine = new Nine();
-        nine.init();
+//        Nine nine = new Nine();
+//        nine.init();
+        Ten ten = new Ten();
+        ten.init();
     }
 
     private static void testBoolean() {

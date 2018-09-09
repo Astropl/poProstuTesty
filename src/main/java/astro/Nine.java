@@ -6,7 +6,7 @@ public class Nine {
     int zad1Sum, zad2CountParzyste = 0, zad2CountNieParzyste = 0;
     int zad3Result = 1;
 
-    public void init() {
+    public  void init() {
         //zad1();
         //zad2();
         //zad3();
@@ -39,7 +39,7 @@ public class Nine {
             for (int j =0;j<tab.length;j++)
             System.out.println(tab[j][i]);
         }
-
+return;
     }
 
     public void zad4() {//4. Mając tablicę 32, 21, 0, 1, 23, 12, 42, 55, 13, 5  znajdź jej największą i najmniejszą wartość i wypisz je na ekran konsoli.
