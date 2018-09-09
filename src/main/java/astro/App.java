@@ -1,7 +1,5 @@
 package astro;
 
-import astro.temat8.Nine;
-
 /**
  * Hello world!
  */
