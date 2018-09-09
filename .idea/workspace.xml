@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a4d4803-6b07-46bd-bd18-e86aec5f8850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/astro/Ten.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/astro/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/astro/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/astro/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/astro/Nine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/astro/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/astro/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/astro/Nine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/astro/Nine.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,7 +16,7 @@
     <session id="632640667">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.31" value="1" />
@@ -42,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6685" />
+          <entry key="java" value="6690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6685" />
+          <entry key="JAVA" value="6690" />
         </counts>
       </usages-collector>
     </session>
@@ -120,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/astro/Ten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="272">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="e#1389#1390#0" expanded="true" />
                 <element signature="e#1443#1444#0" expanded="true" />
@@ -230,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536519028667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536524659426" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -286,12 +281,12 @@
       <workItem from="1536041370507" duration="5955000" />
       <workItem from="1536068059575" duration="20017000" />
       <workItem from="1536093433982" duration="76000" />
-      <workItem from="1536491786648" duration="10724000" />
+      <workItem from="1536491786648" duration="12039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42200000" />
+    <option name="totallyTimeSpent" value="43515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -306,14 +301,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44950056" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44950056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32963374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -344,7 +339,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/astro/Ten.java</url>
-          <line>15</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -408,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/astro/Ten.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="272">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="e#1389#1390#0" expanded="true" />
             <element signature="e#1443#1444#0" expanded="true" />
